@@ -10,8 +10,10 @@
     <Project Path="src/desktop/UI/UI.csproj" Id="9d1649ed-b252-4445-91a0-ee0b63920844" />
   </Folder>
   <Folder Name="/src/frontend/">
-    <Project Path="src/frontend/Ui/Ui.Client/Ui.Client.csproj" Id="93066138-ca62-4a5d-bac5-3e86de44b39e" />
-    <Project Path="src/frontend/Ui/Ui/Ui.csproj" Id="08e358c6-cefc-4c78-b7a7-6b17be428223" />
+    <Project Path="src/frontend/SGE/sge.esproj">
+      <Build />
+      <Deploy />
+    </Project>
   </Folder>
   <Folder Name="/tests/" />
 </Solution>

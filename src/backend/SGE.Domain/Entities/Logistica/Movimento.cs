@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace SGE.Domain.Entities.Logistica;
 
-namespace SGE.Domain.Entities.Logistica;
-
-internal class Movimento
+public class Movimento
 {
 }

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="crm.client/crm.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CRM.Server/CRM.Server.csproj" />
+</Solution>

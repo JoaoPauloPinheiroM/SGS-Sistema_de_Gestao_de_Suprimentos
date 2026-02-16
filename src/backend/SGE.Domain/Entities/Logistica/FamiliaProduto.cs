@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace SGE.Domain.Entities.Logistica;
 
-namespace SGE.Domain.Entities.Logistica;
-
-internal class FamiliaProduto
+public class FamiliaProduto
 {
+    public int Id { get; private set; }
+    public int Codigo { get; private set; }
+    public string Nome { get; private set; }   = null!; 
 }
