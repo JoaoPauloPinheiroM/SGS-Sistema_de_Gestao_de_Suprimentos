@@ -1,1 +1,1 @@
-# SGE - Sistema de Gestão de Estoque
+# SGS - Sistema de Gestão de Suprimentos
